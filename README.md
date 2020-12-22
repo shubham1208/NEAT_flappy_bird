@@ -1,5 +1,6 @@
 # NEAT_flappy_bird
-This is a flappy bird game played by an AI using neat-python.
+This is a flappy bird game played by an AI using neat-python. 
+
 It spawns 100 birds and trains to creat a perfect bird by genetic learning.
 
 <img src="https://github.com/shubham1208/NEAT_flappy_bird/blob/main/flappy_bird_demo.gif" width="350" height="730" />
